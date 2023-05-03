@@ -161,6 +161,33 @@
             "chars": [
                 "\uEB80"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/soldiers/health_bar.png",
+            "ascent": 0,
+            "height": 32,
+            "chars": [
+                "\uFB00"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/soldiers/health_bar_line_full.png",
+            "ascent": 0,
+            "height": 32,
+            "chars": [
+                "\uFB01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/soldiers/health_bar_line_empty.png",
+            "ascent": 0,
+            "height": 32,
+            "chars": [
+                "\uFB02"
+            ]
         }
     ]
 }
