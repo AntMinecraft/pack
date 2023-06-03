@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "gui/custom/ui/arrow_left" },
+        { "predicate": { "custom_model_data": 2 }, "model": "gui/custom/ui/arrow_left_disabled" },
+        { "predicate": { "custom_model_data": 3 }, "model": "gui/custom/ui/arrow_right" },
+        { "predicate": { "custom_model_data": 4 }, "model": "gui/custom/ui/arrow_right_disabled" },
+        { "predicate": { "custom_model_data": 5 }, "model": "gui/custom/ui/checkmark_true" },
+        { "predicate": { "custom_model_data": 6 }, "model": "gui/custom/ui/checkmark_false" }
+    ]
+}

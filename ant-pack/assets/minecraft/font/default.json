@@ -164,6 +164,15 @@
         },
         {
             "type": "bitmap",
+            "file": "custom/gui/actionbar_settings.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uFA00"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "gui/custom/soldiers/health_bar.png",
             "ascent": 0,
             "height": 34,
