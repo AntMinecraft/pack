@@ -1,9 +1,9 @@
 {
     "credit": "MCTF2 Rocket Launcher (https://skfb.ly/6SzGQ) by welormit in Blockbench",
     "textures": {
-        "0": "custom/soldiers/rocket_launcher",
-        "1": "custom/soldiers/hole",
-        "particle": "custom/soldiers/rocket_launcher"
+        "0": "custom/soldiers/item/rocket_launcher",
+        "1": "custom/soldiers/item/hole",
+        "particle": "custom/soldiers/item/rocket_launcher"
     },
     "elements": [
         {

@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32770,
             "height": -32770,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -3,
             "chars": [
@@ -20,7 +20,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -4,
             "chars": [
@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -6,
             "chars": [
@@ -38,7 +38,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -10,
             "chars": [
@@ -47,7 +47,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -18,
             "chars": [
@@ -56,7 +56,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -34,
             "chars": [
@@ -65,7 +65,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -66,
             "chars": [
@@ -74,7 +74,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": -130,
             "chars": [
@@ -83,7 +83,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 32767,
             "chars": [
@@ -92,7 +92,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 0,
             "chars": [
@@ -101,7 +101,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 1,
             "chars": [
@@ -110,7 +110,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 3,
             "chars": [
@@ -119,7 +119,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 7,
             "chars": [
@@ -128,7 +128,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 15,
             "chars": [
@@ -137,7 +137,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 31,
             "chars": [
@@ -146,7 +146,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 63,
             "chars": [
@@ -155,7 +155,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/space.png",
+            "file": "custom/ui/space.png",
             "ascent": -32768,
             "height": 127,
             "chars": [
@@ -173,7 +173,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/soldiers/health_bar.png",
+            "file": "custom/soldiers/hud/health_bar.png",
             "ascent": 0,
             "height": 34,
             "chars": [
@@ -182,7 +182,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/soldiers/health_bar_line_full.png",
+            "file": "custom/soldiers/hud/health_bar_line_full.png",
             "ascent": 0,
             "height": 34,
             "chars": [
@@ -191,7 +191,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/soldiers/health_bar_line_empty.png",
+            "file": "custom/soldiers/hud/health_bar_line_empty.png",
             "ascent": 0,
             "height": 34,
             "chars": [

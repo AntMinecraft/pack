@@ -1,8 +1,8 @@
 {
 	"credit": "MCTF2 by welormit in Blockbench",
 	"textures": {
-		"0": "custom/soldiers/rocket",
-		"particle": "custom/soldiers/rocket"
+		"0": "custom/soldiers/item/rocket",
+		"particle": "custom/soldiers/item/rocket"
 	},
 	"elements": [
 		{

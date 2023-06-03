@@ -4,7 +4,7 @@
         "layer0": "item/stick"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "custom/soldiers/rocket_launcher" },
-        { "predicate": { "custom_model_data": 2 }, "model": "custom/soldiers/rocket" }
+        { "predicate": { "custom_model_data": 1 }, "model": "custom/soldiers/item/rocket_launcher" },
+        { "predicate": { "custom_model_data": 2 }, "model": "custom/soldiers/item/rocket" }
     ]
 }
