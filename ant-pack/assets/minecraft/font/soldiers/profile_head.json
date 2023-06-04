@@ -1,0 +1,60 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": ["\uA000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 4,
+            "height": 31,
+            "chars": ["\uA001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 8,
+            "height": 31,
+            "chars": ["\uA002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 12,
+            "height": 31,
+            "chars": ["\uA003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 16,
+            "height": 31,
+            "chars": ["\uA004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 20,
+            "height": 31,
+            "chars": ["\uA005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 24,
+            "height": 31,
+            "chars": ["\uA006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile_head/pixel.png",
+            "ascent": 28,
+            "height": 31,
+            "chars": ["\uA007"]
+        }
+    ]
+}
