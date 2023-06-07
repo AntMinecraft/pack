@@ -197,6 +197,87 @@
             "chars": [
                 "\uFB02"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/head/default.png",
+            "ascent": 0,
+            "height": 35,
+            "chars": [
+                "\uFB03"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/background/start.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB04"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/background/mid.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/background/end.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB06"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/xp_bar/border.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/xp_bar/mid_empty.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB08"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/xp_bar/mid_full.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB09"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/xp_bar/separator_empty.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB0A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/soldiers/hud/profile/xp_bar/separator_full.png",
+            "ascent": 0,
+            "height": 100,
+            "chars": [
+                "\uFB0B"
+            ]
         }
     ]
 }
