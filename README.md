@@ -27,9 +27,12 @@
 
 ## Fonts
 
-| Name                    | Description                                     |
-|-------------------------|-------------------------------------------------|
-| `soldiers/profile_head` | Player profile heads in the player's action bar |
+| Name                      | Description                                     |
+|---------------------------|-------------------------------------------------|
+| `soldiers/profile_head`   | Player profile heads in the player's action bar |
+| `soldiers/profile_text_0` | First line in the profile description           |
+| `soldiers/profile_text_1` | Second line in the profile description          |
+| `soldiers/profile_text_2` | Third line in the profile description           |
 
 # Credits
 
