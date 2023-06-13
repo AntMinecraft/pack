@@ -33,6 +33,7 @@
 | `soldiers/profile_text_0` | First line in the profile description           |
 | `soldiers/profile_text_1` | Second line in the profile description          |
 | `soldiers/profile_text_2` | Third line in the profile description           |
+| `soldiers/bossbar_text_0` | Second line under the bossbar                   |
 
 # Credits
 
